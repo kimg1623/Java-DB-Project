@@ -3,8 +3,7 @@
 ## 📑 프로젝트 설명
 - Java CLI 게시판 프로젝트 클론 코딩
 (참고: 이것이 자바다, 한빛)
-- Skill 
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQ&logoColor=white"/>
+- Skill : Java + <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 ### 구현 기능
 1. 게시글 추가
