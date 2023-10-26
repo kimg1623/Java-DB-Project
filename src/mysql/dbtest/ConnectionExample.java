@@ -1,7 +1,6 @@
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
-import java.sql.SQLOutput;
+package mysql.dbtest;
+
+import java.sql.*;
 
 public class ConnectionExample {
     public static void main(String[] args) {
