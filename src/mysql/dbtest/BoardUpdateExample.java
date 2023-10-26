@@ -31,7 +31,7 @@ public class BoardUpdateExample {
             pstmt.setString(1, "눈사람");
             pstmt.setString(2, "눈으로 만든 사람");
             pstmt.setString(3, "snowman.jpg");
-            pstmt.setBlob(4, new FileInputStream("src/mysql/snowman.jpg"));
+            pstmt.setBlob(4, new FileInputStream("src/mysql/dbtest/snowman.jpg"));
             pstmt.setInt(5, 2);  //boards 테이블에 있는 게시물 번호(bno) 지정
 
             //SQL문 실행

@@ -25,11 +25,11 @@ public class BoardInsertExample {
             //PreparedStatement 얻기 및 값 지정
             PreparedStatement pstmt = conn.prepareStatement(
                     sql, Statement.RETURN_GENERATED_KEYS);
-            pstmt.setString(1, "봄내음");
-            pstmt.setString(2, "봄이 느껴지는 날씨");
-            pstmt.setString(3, "spring");
-            pstmt.setString(4, "spring.jpg");
-            pstmt.setBlob(5, new FileInputStream("src/mysql/spring.jpg"));
+            pstmt.setString(1, "눈오는 날");
+            pstmt.setString(2, "함박눈이 내려요.");
+            pstmt.setString(3, "winter");
+            pstmt.setString(4, "snow.jpg");
+            pstmt.setBlob(5, new FileInputStream("src/mysql/dbtest/snow.jpg"));
 
             //SQL문 실행
             int rows = pstmt.executeUpdate();
