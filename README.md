@@ -10,5 +10,9 @@
 2. 게시글 조회/수정/삭제
 3. 게시글 전체 삭제
 
+### 향후 작업 방향
+- MyBatis로 JDBC 수정
+- MVC2 모델을 적용해보도록 수정
+
 ## 💻 실행화면   
 ![Animation](https://github.com/kimg1623/Java-DB-Project/assets/40616792/fb495081-124b-412e-945a-d6d9bfba9679)
