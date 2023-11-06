@@ -1,5 +1,4 @@
 # Java CLI 게시판 프로그램 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"></a> <img src="https://img.shields.io/badge/MariaDB-1F305F?style=for-the-badge&logo=MariaDB&logoColor=white"></a> <img src="https://img.shields.io/badge/IntelliJ IDEA-2F8CBB?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"></a> <img src="https://img.shields.io/badge/Mybatis-FFFC00?style=for-the-badge&logo=Mybatis&logoColor=white"/></a>    
 
 ## 📑 프로젝트 설명 
 - `MySQL JDBC` 환경으로 구축된 프로그램을 클론 코딩 후 `MyBatis`를 사용하도록 코드를 수정하였습니다.
